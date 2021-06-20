@@ -12,6 +12,9 @@ Jums reikės:
 
 ## Pamokos
 
-1. String metodai - aplankas **stringmethods**: _`toUpperCase()`_, _`toLowerCase()`_, _`concat()`_, _`length()`_, _`charAt()`_, _`contains()`_, _`equals()`_, _`equalsIgnoreCase()`_, _`startsWith()`_,
+1. String metodai - aplankas **stringmethods**. Pamokos video - [čia]().
+
+_`toUpperCase()`_, _`toLowerCase()`_, _`concat()`_, _`length()`_, _`charAt()`_, _`contains()`_, _`equals()`_, _`equalsIgnoreCase()`_, _`startsWith()`_,
 _`endsWith()`_, _`indexOf()`_, _`lastIndexOf()`_, _`isEmpty()`_, _`isBlank()`_, _`replace()`_, _`substring()`_, _`substring()`_, _`strip()`_.
 
+2. String.format() - aplankas **stringformat**. Pamokos video - [čia](https://www.youtube.com/watch?v=V2YDDQohV3s).
