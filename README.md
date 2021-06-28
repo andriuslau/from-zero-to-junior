@@ -17,4 +17,10 @@ Jums reikės:
 _`toUpperCase()`_, _`toLowerCase()`_, _`concat()`_, _`length()`_, _`charAt()`_, _`contains()`_, _`equals()`_, _`equalsIgnoreCase()`_, _`startsWith()`_,
 _`endsWith()`_, _`indexOf()`_, _`lastIndexOf()`_, _`isEmpty()`_, _`isBlank()`_, _`replace()`_, _`substring()`_, _`substring()`_, _`strip()`_.
 
-2. String.format() - aplankas **stringformat**. Pamokos video - [čia](https://www.youtube.com/watch?v=V2YDDQohV3s).
+2. String.format() - aplankas **stringformat**. Pamokos video - [čia](https://www.youtube.com/watch?v=V2YDDQohV3s). 
+
+_`%s`_, _`%d`_, _`%b`_, _`%f`_, _`%1$s`_, _`%1$.2f`_
+   
+3. Scanner - aplankas **myscanner**. Pamokos video - [čia](https://www.youtube.com/watch?v=cHml6hGexxs).
+
+_`next()`_, _`nextLine()`_, _`nextInt()`_, _`nextBoolean()`_, _`hasNext()`_, _`hasNextLine()`_
